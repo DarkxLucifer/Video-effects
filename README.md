@@ -8,7 +8,7 @@ A simple Python project to apply a sketch (pencil drawing) effect to videos usin
 - Easy to extend with AI models for advanced generation (e.g., from sketches to animated videos).
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/yourusername/VideoSketchEffect.git`
+1. Clone the repo: `git clone https://github.com/DarkxLucifer/VideoSketchEffect.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
